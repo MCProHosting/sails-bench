@@ -1,0 +1,24 @@
+{
+  "name": "sails-bench",
+  "version": "1.0.0",
+  "description": "",
+  "main": "benchHttp.js",
+  "dependencies": {
+    "sails.io.js": "^0.10.3",
+    "socket.io-client": "~0.9.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://connor4312@github.com/MCProHosting/sails-bench.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MCProHosting/sails-bench/issues"
+  },
+  "homepage": "https://github.com/MCProHosting/sails-bench"
+}
